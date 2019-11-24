@@ -10,10 +10,13 @@ If you used our dataset, please consider to cite our paper in MICCAI 2019, Xiaow
 
 The diagnosis of the dataset is as follows: (suggest to copy and paste it in the excel, and parse it with rows)
 Index	ASD	AVSD	VSD	AD	ToF	PAS	PDA	CA	CAT	PS	AAA	TGA	SV	PuA	Normal
+
 1001	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
 
 1002	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+
 1004	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+
 1007	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 1008	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
 1010	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
