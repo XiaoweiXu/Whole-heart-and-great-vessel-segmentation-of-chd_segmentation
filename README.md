@@ -4,8 +4,6 @@ A dataset of whole heart and great vessel segmentation of chd_segmentation is pu
 Our dataset includes 68 CT images with labels. The label includes left ventricle (label: 1), right ventricle (label: 2), left atrium (label: 3), right atrium (label: 4), myocardium (label: 5), aorta (label: 6), and pulmonary artery (label: 7).
 You notice other labels such 14 etc., you can just ignore them as they are labels corresponding to airways etc.
 
-Our dataset is available at https://notredame.box.com/v/chdsegmentationdataset, and please send emails to Prof. Yiyu Shi yshi4@nd.edu for the password. 
-
 If you used our dataset, please consider to cite our paper in MICCAI 2019, Xiaowei Xu, Tianchen Wang, Yiyu Shi, Haiyun Yuan, Qianjun Jia, Meiping Huang, and Jian Zhuang, "Whole-Heart and Great Vessel Segmentation in Congenital Heart Disease using Deep Neural Networks and Graph Matching," in Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), Shenzhen, China, 2019.
 
 The diagnosis of the dataset is as follows: (suggest to copy and paste it in the excel, and parse it with rows)
